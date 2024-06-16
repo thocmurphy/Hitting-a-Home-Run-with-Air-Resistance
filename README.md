@@ -1,1 +1,1 @@
-This is a project completed using MATLAB, Excel, and fundamental calculus and physics to simulate hitting a baseball with air resistance.
+This is a project completed using MATLAB, Excel, and fundamental physics/calculus to simulate hitting a baseball with air resistance.
